@@ -1,2 +1,4 @@
 # Termux-IDL
-How to use
+Requirement :
+- pkg install python
+- pip install instaloader
