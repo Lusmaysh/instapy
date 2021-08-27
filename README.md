@@ -1,3 +1,3 @@
 # Termux-IDL
-- bash setup.sh
+- sh setup.sh
 - python main.py
