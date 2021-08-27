@@ -1,2 +1,2 @@
-pkg install python -y
+pkg install python
 pip install instaloader -y
