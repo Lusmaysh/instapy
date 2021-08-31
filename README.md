@@ -1,5 +1,5 @@
-# Installation
-'''console
+## Installation
+```console
 # clone to repo
 $ git clone https://github.com/Lusmaysh/Termux-IDL
 
@@ -10,4 +10,4 @@ $ bash setup.sh
 # To Use
 $ cd Termux-IDL
 $ python main.py
-'''
+```
