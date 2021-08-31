@@ -5,7 +5,7 @@ $ git clone https://github.com/Lusmaysh/Termux-IDL
 
 # install the requirement
 $ apt install python
-$ bash setup.sh
+$ pip install -r requirements.txt
 
 # To Use
 $ cd Termux-IDL
