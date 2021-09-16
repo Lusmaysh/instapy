@@ -69,7 +69,7 @@ options		information
 		a = input(f'{brm}Download For saved/stories/feed ? : {pth}')
 		print(f"{brm}Getting Info from {pth}bjiryu")
 		if a == 'saved' or a == 'stories' or a == 'feed':
-			os.system(f'instaloader -l bjiryu -p Syamsul10022005 --no-compress-json --no-metadata-json --no-captions --no-video-thumbnails --no-resume :{a}')
+			os.system(f'instaloader -l bjiryu -p  --no-compress-json --no-metadata-json --no-captions --no-video-thumbnails --no-resume :{a}')
 		else:
 			exit()
 	elif sss == 'login':
