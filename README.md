@@ -1,11 +1,11 @@
-## Installation
+## Installation For Termux
 ```console
-# clone to repo
-$ git clone https://github.com/Lusmaysh/Termux-IDL
-
 # install the requirement
 $ pkg install python
-$ pip install instaloader
+$ pkg install git
+
+# clone the repo
+$ git clone https://github.com/Lusmaysh/instapy
 
 # To Use
 $ cd Termux-IDL
